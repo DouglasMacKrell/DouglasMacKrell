@@ -1,1 +1,1 @@
-![Douglas MacKrell](https://www.douglasmackrell.com/Doug-Portfolio-Social.png)
+[![Douglas MacKrell](https://www.douglasmackrell.com/Doug-Portfolio-Social.png)](https://dougmackrell.com)
