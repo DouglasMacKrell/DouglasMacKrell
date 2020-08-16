@@ -2,4 +2,4 @@
 
 # Check out my Personal Portfolio Website @ [douglasmackrell.com](https://douglasmackrell.com)
 
-[![Twitter](https://dougs-crossing-game.netlify.app/twitter.svg)](https://twitter.com/DouglasMacKrell) [![YouTube](https://dougs-crossing-game.netlify.app/youtube.svg)](https://youtube.com/bigmackrell) [![Email](https://dougs-crossing-game.netlify.app/gmail.svg)](bigmackrell+github@gmail.com)
+[![Twitter](https://dougs-crossing-game.netlify.app/twitter.svg =50x50)](https://twitter.com/DouglasMacKrell) [![YouTube](https://dougs-crossing-game.netlify.app/youtube.svg =50x50)](https://youtube.com/bigmackrell) [![Email](https://dougs-crossing-game.netlify.app/gmail.svg =50x50)](bigmackrell+github@gmail.com)
